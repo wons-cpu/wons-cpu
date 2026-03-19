@@ -1,6 +1,6 @@
 # Hey, I'm Wonseok.
 
-CS @ Georgia Tech. Previously CompE — switched because I kept building the software instead of the hardware.
+CompE @ Georgia Tech.
 
 I'm interested in the intersection of AI systems and creative tools — prompt engineering, audio processing, and developer experience. I also make music, design sounds, and sing in a band.
 
