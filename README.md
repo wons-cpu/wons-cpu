@@ -11,7 +11,7 @@ I'm interested in the intersection of AI systems and creative tools — prompt e
 - **IceTide** — Custom reverb plugin built in C++/HISE with thematic presets, tested across Logic Pro, Ableton, and FL Studio.
 
 
-### 💻 Stack
+### Stack
 **Code:** Java, Python, JavaScript, C++, Kotlin, React, Next.js, FastAPI, Android Studio  
 **Audio:** Logic Pro, HISE, Sound Design & Mixing
 
