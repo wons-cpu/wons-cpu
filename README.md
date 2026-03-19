@@ -1,4 +1,4 @@
-# Hey, I'm Wonseok.
+# Hi, I'm Wonseok.
 
 CompE @ Georgia Tech.
 
