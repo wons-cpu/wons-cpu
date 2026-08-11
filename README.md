@@ -12,7 +12,7 @@ I'm interested in the intersection of AI systems and creative tools — prompt e
 
 
 ### Stack
-**Code:** Java, Python, JavaScript, C++, Kotlin, React, Next.js, FastAPI, Android Studio  
+**Code:** Java, Python, JavaScript, React, Next.js, FastAPI, Android Studio  
 **Audio:** Logic Pro, HISE, Sound Design & Mixing
 
 ---
