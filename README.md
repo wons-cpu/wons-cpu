@@ -1,19 +1,29 @@
 # Hi, I'm Wonseok.
 
-CS @ Georgia Tech.
-
-I'm interested in the intersection of AI systems and creative tools — prompt engineering, audio processing, and developer experience. I also make music, design sounds, and sing in a band.
+CS @ Georgia Tech. I build things at the intersection of AI systems, 
+audio, and maps. I also write music and sing in a band.
 
 ### What I'm working on
 
-- **[Prompt Master Workbench](https://github.com/wons-cpu/prompt-master-workbench)** — AI-powered prompt engineering tool that generates production-ready prompts for 20+ platforms (Claude, GPT-4o, Midjourney, Cursor, Devin, etc.). React + Claude API.
-- **yeoui** — Android app that acts as a smart DJ for drivers, using computer vision to adapt music in real time. Java/Kotlin.
-- **IceTide** — Custom reverb plugin built in C++/HISE with thematic presets, tested across Logic Pro, Ableton, and FL Studio.
+**[Yoii](https://github.com/wons-cpu/yoii)** — Turns a walk into a map. 
+Records your GPS route and what played on Spotify over it, then renders 
+the whole thing as a shareable video. React Native, Remotion, MapLibre. 
+Building it in the open, a layer a week.
 
+**[Prompt Master Workbench](https://github.com/wons-cpu/prompt-master-workbench)** 
+— Generates prompts tuned to the quirks of 20+ AI tools. React + Claude API.
+
+**IceTide** — A reverb plugin in C++/HISE with original presets, tested 
+across Logic Pro, Ableton, and FL Studio.
 
 ### Stack
-**Code:** Java, Python, JavaScript, React, Next.js, FastAPI, Android Studio  
-**Audio:** Logic Pro, HISE, Sound Design & Mixing
+
+TypeScript, Python, Java, C++ · React, React Native, Next.js, FastAPI · 
+Postgres, Supabase · Logic Pro, HISE
+
+Looking for a Summer 2027 software engineering internship.  
+[wlee477@gatech.edu](mailto:wlee477@gatech.edu) · 
+[LinkedIn](https://linkedin.com/in/wonseok-lee1)
 
 ---
 
