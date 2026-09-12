@@ -23,7 +23,7 @@ Postgres, Supabase · Logic Pro, HISE
 
 Looking for a Summer 2027 software engineering internship.  
 [wlee477@gatech.edu](mailto:wlee477@gatech.edu) · 
-[LinkedIn](https://linkedin.com/in/wonseok-lee1)
+[LinkedIn](https://www.linkedin.com/in/wonseoklee1/)
 
 ---
 
